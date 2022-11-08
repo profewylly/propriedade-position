@@ -1,0 +1,36 @@
+body {
+    height: 300vh;
+  }
+  
+  .exemplo {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .exemplo1{
+    background-color: blue;
+    position: absolute;
+    right: 0;
+  }
+  
+  .exemplo2 {
+    background-color: lightgreen;
+    position: absolute;
+    left: 50%;
+  }
+  
+  .exemplofinal {
+    background-color: red;
+  }
+  
+  .exemplointerno {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    background-color: yellow;
+  }
